@@ -1,1 +1,0 @@
-This is ex6.md
